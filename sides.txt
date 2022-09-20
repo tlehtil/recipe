@@ -1,5 +1,4 @@
 Enjoy guac with:
 * nachos
 * tortilla
-* taco
 * nothing
